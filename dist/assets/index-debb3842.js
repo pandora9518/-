@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as o,p as t,b as _,a}from"./index-511768d2.js";const d="/assets/404-4ddd4288.png";const n={},p=e=>(t("data-v-84c228b1"),e=e(),_(),e),r={class:"box"},i=p(()=>a("img",{src:d,alt:""},null,-1)),l=[i];function u(e,x){return c(),o("div",r,l)}const h=s(n,[["render",u],["__scopeId","data-v-84c228b1"]]);export{h as default};

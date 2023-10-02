@@ -1,0 +1,16 @@
+@import './reset.scss';
+
+// //css自定义滚动条样式 css私有属性 适配特定的浏览器
+::-webkit-scrollbar {
+    background-color: white;
+}
+
+// ::-webkit-scrollbar-track {
+
+// }
+
+::-webkit-scrollbar-thumb {
+    height: 30px;
+    border-radius: 10px;
+    background-color: gray;
+}
